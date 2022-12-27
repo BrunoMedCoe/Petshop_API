@@ -1,0 +1,27 @@
+2022-10-07T18:26:52.915Z [petshop-api] error POST  - Nome e Telefone são obrigatórios!
+2022-10-10T12:00:42.771Z [petshop-api] error POST  - Nome e Telefone são obrigatórios!
+2022-10-10T12:08:22.663Z [petshop-api] error POST  - Validation error
+2022-10-10T12:10:24.339Z [petshop-api] error POST  - Validation error
+2022-10-10T14:32:42.325Z [petshop-api] error GET  - connect ETIMEDOUT 54.195.214.215:5432
+2022-10-10T14:34:34.739Z [petshop-api] info GET /proprietario
+2022-10-10T14:36:27.650Z [petshop-api] info GET /proprietario
+2022-10-10T14:39:47.186Z [petshop-api] info GET /animal
+2022-10-10T18:48:27.604Z [petshop-api] info GET /animal
+2022-10-10T18:50:35.978Z [petshop-api] info GET /animal
+2022-10-10T18:50:52.878Z [petshop-api] info GET /animal
+2022-10-10T19:17:43.538Z [petshop-api] info GET /animal
+2022-10-10T19:29:31.930Z [petshop-api] info GET /animal
+2022-10-10T19:30:15.924Z [petshop-api] info GET /animal
+2022-10-10T19:30:59.649Z [petshop-api] info GET /animal
+2022-10-10T19:31:05.638Z [petshop-api] info GET /animal
+2022-10-10T19:37:12.981Z [petshop-api] info GET /animal
+2022-10-10T19:37:34.432Z [petshop-api] info GET /animal
+2022-10-10T19:42:30.554Z [petshop-api] info GET /animal
+2022-10-10T19:42:40.204Z [petshop-api] info GET /animal
+2022-10-10T19:42:46.315Z [petshop-api] info GET /animal
+2022-10-10T19:43:39.179Z [petshop-api] info GET /animal
+2022-10-10T19:43:45.156Z [petshop-api] info GET /animal
+2022-10-10T19:43:53.880Z [petshop-api] info GET /animal
+2022-10-10T19:43:58.879Z [petshop-api] info GET /animal
+2022-10-10T19:45:16.046Z [petshop-api] info GET /animal
+2022-10-10T19:55:26.494Z [petshop-api] info GET /animal
